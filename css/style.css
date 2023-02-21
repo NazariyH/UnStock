@@ -102,6 +102,7 @@ main {
 
     width: 100vw;
     max-height: 1080px;
+    z-index: -1;
 }
 
 .homeImg img {
