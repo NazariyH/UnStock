@@ -1,0 +1,81 @@
+@media (max-width: 950px) {
+    .remove {
+        display: none;
+    }
+}
+@media (max-width: 800px) {
+    .menu {
+        display: none;
+    }
+    .social{
+        display: none;
+    }
+    .title h1{
+        font-size: 30px;
+    }
+    .title p{
+        font-size: 17px;
+    }
+    .gallery__title h1 {
+        font-size: 30px;
+    }
+    .menu-btn {
+        display: block;
+    }
+
+}
+
+@media (max-width: 600px) {
+    .fixed {
+        height: 50px;
+    }
+    .logotype a img {
+        width: 30px;
+        height: 30px;
+    }
+    .unstock {
+        display: none;
+    }
+    .title h1{
+        font-size: 20px;
+    }
+    .title p{
+        font-size: 11px;
+        width: 250px;
+    }
+    .gallery__title {
+        height: 80px;
+    }
+    .gallery__title h1 {
+        font-size: 20px;
+    }
+    .achivements div img {
+        width: 400px;
+        height: 255px;
+    }
+    .achivements div p {
+        font-size: 11px;    
+        width: 400px;
+    }
+    .lines {
+        height: 100px;
+    }
+    .lines h1 {
+        font-size: 20px;
+    }
+    .end {
+        height: 50px;
+    }
+    .end h1 {
+        font-size: 15px;
+    }
+}
+@media (max-width: 450px) {
+    .achivements div img {
+        width: 300px;
+        height: 200px;
+    }
+    .achivements div p {
+        width: 300px;
+    }
+}
